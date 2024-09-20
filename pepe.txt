@@ -1,3 +1,8 @@
 Esta es la primer linea
 Otra linea
 una mas
+<<<<<<< HEAD
+=======
+linea ramil
+ptssssss
+>>>>>>> rama
